@@ -19,6 +19,11 @@ function Cards() {
                         text="Explore the hidden waterfall deep inside the Amazon Jungle"
                         label="Luxury"
                         path="/services"/>
+                         <CardItem
+                        src="Images/Img3.jpg"
+                        text="Explore the hidden waterfall deep inside the Amazon Jungle"
+                        label="Adventure"
+                        path="/services"/>
                         
                     </ul>
                     <ul className="cards__items">

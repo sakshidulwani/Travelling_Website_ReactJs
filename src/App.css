@@ -28,14 +28,14 @@
 .products {
   background-image: url("/src/Images/Img2.jpg");
   background-position: center;
-  background-size: fill;
+  background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
   font-size: 100px;
 }
 
 .sign-up {
-  background-image: url("/src/Images/Img3.jpg");
+  background-image: url("/src/Images/Img5.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
