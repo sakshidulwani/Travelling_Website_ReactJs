@@ -17,12 +17,9 @@
 }
 
 .services {
-  background-image: url("/src/Images/Img1.jpg");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
   color: #fff;
-  font-size: 100px;
+  font-size: 40px;
+  align-items: center;
 }
 
 .products {
